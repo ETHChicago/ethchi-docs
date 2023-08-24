@@ -19,7 +19,7 @@ sidebar_position: 2
 
 [Gentle intro to Orbit](https://developer.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction) - great for folks who are aware of L1s/L2s, but don't understand the value prop of appchains.
 
-[Quickstart for Orbit](https://developer.arbitrum.io/launch-orbit-chain/orbit-quickstart) - could be completed in ~15-30mins; requires goerli eth though
+[Quickstart for Orbit](https://developer.arbitrum.io/launch-orbit-chain/orbit-quickstart) - could be completed in ~15-30mins; requires goerli eth though.
 
 
 ### Buidl Guidl & Scaffold ETH
@@ -31,11 +31,11 @@ sidebar_position: 2
 
 ### City DAO
 
-[GitHub](https://github.com/citydaoproject)
+[GitHub](https://github.com/citydaoproject) - City DAO's source
 
-[DeWork open engineering tasks](https://app.dework.xyz/citydao/engineering-2/community)
+[DeWork open engineering tasks](https://app.dework.xyz/citydao/engineering-2/community) - DeWork listing open engineering tasks
 
-[Discord](https://discord.gg/B9YbPNwcD3)
+[Discord](https://discord.gg/B9YbPNwcD3) - Talk to the City DAO team directly
 
 [X (Formerly Twitter)](https://www.citydao.io/#)
 
@@ -45,8 +45,8 @@ sidebar_position: 2
 [X (Formerly Twitter)](https://twitter.com/HopscotchTeam)
 
 
-### Lil nouns
+### Lil Nouns
 
-[Github](https://github.com/lilnounsDAO/)
+[Github](https://github.com/lilnounsDAO/) - Lil Nouns source
 
 [Smart Contract Architecture](https://lilnouns.notion.site/Lil-Nouns-Smart-contract-architecture-a4cadc430d97409e99d17ce09720e4d0)
