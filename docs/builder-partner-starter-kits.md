@@ -29,6 +29,22 @@ sidebar_position: 2
 [SpeedRunEthereum](https://speedrunethereum.com/)​ - Learn how to build on Ethereum; the superpowers and the gotchas
 
 
+### City DAO
+
+[GitHub](https://github.com/citydaoproject)
+
+[DeWork open engineering tasks](https://app.dework.xyz/citydao/engineering-2/community)
+
+[Discord](https://discord.gg/B9YbPNwcD3)
+
+[X (Formerly Twitter)](https://www.citydao.io/#)
+
+
+### Hopscotch
+
+[X (Formerly Twitter)](https://twitter.com/HopscotchTeam)
+
+
 ### Lil nouns
 
 [Github](https://github.com/lilnounsDAO/)
