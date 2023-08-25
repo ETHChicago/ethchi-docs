@@ -32,3 +32,9 @@ sidebar_position: 5
 
 - [website](https://boilerblockchain.io/)
 - [x](https://twitter.com/BoilerChain)
+
+### Badger Blockchain - UW Madison's hub for everything blockchain.
+
+- [website](https://www.badgerblockchain.com/)
+- [x](https://twitter.com/BadgerBlocks)
+- [LinkedIn](https://www.linkedin.com/company/badger-blockchain/)
