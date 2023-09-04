@@ -31,4 +31,9 @@ The following libraries can be used by a frontend or backend service to interact
 ​​[ethers.js](https://docs.ethers.org/v5/)
 
 [web3.py](https://web3py.readthedocs.io/en/stable/)
+
+### Tutorials
 ​
+[crypto zombies](https://cryptozombies.io/)
+
+[ethernaut](https://ethernaut.openzeppelin.com/)
