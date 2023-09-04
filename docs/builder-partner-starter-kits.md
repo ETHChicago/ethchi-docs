@@ -22,6 +22,15 @@ sidebar_position: 2
 [Quickstart for Orbit](https://developer.arbitrum.io/launch-orbit-chain/orbit-quickstart) - could be completed in ~15-30mins; requires goerli eth though.
 
 
+[Stylus](https://arbitrum.io/stylus)
+
+[Stylus Docs](https://docs.arbitrum.io/stylus/stylus-gentle-introduction)
+
+### API3
+
+[API3](https://api3.org/)
+
+
 ### Buidl Guidl & Scaffold ETH
 
 [builds](https://app.buidlguidl.com/builds) - a list of builder projects for buidlguidl
@@ -47,6 +56,16 @@ sidebar_position: 2
 
 ### Lil Nouns
 
+[lil nouns website](https://lilnouns.wtf/)
+
+[lil nouns developer notion](https://lilnouns.notion.site/Build-on-Lil-Nouns-898f4dca1db64e20b1d4d66432bbe7d9)
+
+[nouns101.wtf](https://www.nouns101.wtf/)
+
 [Github](https://github.com/lilnounsDAO/) - Lil Nouns source
 
 [Smart Contract Architecture](https://lilnouns.notion.site/Lil-Nouns-Smart-contract-architecture-a4cadc430d97409e99d17ce09720e4d0)
+
+[Media kit](https://www.onboarding.wtf/liln.html)
+
+[Build your own lilnoun](https://byn.wtf)
