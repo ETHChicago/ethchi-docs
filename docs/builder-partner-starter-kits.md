@@ -68,4 +68,25 @@ sidebar_position: 2
 
 [Media kit](https://www.onboarding.wtf/liln.html)
 
-[Build your own lilnoun](https://byn.wtf)
+[Build your own Lilnoun](https://byn.wtf)
+
+
+### Tastycrypto x Amberdata
+
+[Amberdata Docs: getting started](https://docs.amberdata.io/reference/reference-getting-started#reference-getting-started)
+
+[Amberdata Home](https://www.amberdata.io/)
+
+[Starter ideas](https://github.com/amberdata/jupyter-notebook)
+
+[Tastycrypto Home](https://www.tastycrypto.com/)
+
+### Wormhole
+
+[Docs](https://docs.wormhole.com/wormhole/)
+
+[Foundation](https://github.com/wormhole-foundation/hello-wormhole)
+
+[Token](https://github.com/wormhole-foundation/hello-token)
+
+[Scaffolding](https://github.com/wormhole-foundation/wormhole-scaffolding)
