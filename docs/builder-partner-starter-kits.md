@@ -38,15 +38,13 @@ sidebar_position: 2
 [SpeedRunEthereum](https://speedrunethereum.com/)​ - Learn how to build on Ethereum; the superpowers and the gotchas
 
 
-### City DAO
+### Ceptor Club
 
-[GitHub](https://github.com/citydaoproject) - City DAO's source
+[GitHub](https://github.com/citydaoproject](https://github.com/ceptor-club/ETHChicago) - Ceptor Club's Public Repo
 
-[DeWork open engineering tasks](https://app.dework.xyz/citydao/engineering-2/community) - DeWork listing open engineering tasks
+[Our Workshop](https://docs.google.com/presentation/d/1mtMkzCalnyWta4Izh20Yp2v47xfSvoBWPo4u8vMTgqk/edit?usp=sharing) - Our Workshop Slide
 
-[Discord](https://discord.gg/B9YbPNwcD3) - Talk to the City DAO team directly
-
-[X (Formerly Twitter)](https://www.citydao.io/#)
+More coming soon...
 
 
 ### Hopscotch
