@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Builder General Resources
 
-## General Resources
+## Resources
 
 [ETH Chicago Hackathon Home](https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023)
 
@@ -14,14 +14,7 @@ sidebar_position: 3
 
 [Ethereum.org's Developer Resources](https://ethereum.org/en/developers/)​ - Guides, IDEs, tools, libraries
 
-## Hack a Hackathon Support
-
-[The Hackathon Method by OpenUX](https://mirror.xyz/openux.eth/Z9CkF5Np4usTAt393Snq-fLN6BfZQkj-5_o6dy-XGoE) - Data-driven advice for hackers participating in hackathons. 
-(A long piece, but we believe there's value for hackers of every experience level. Recommend reading before the event.)
-
-[Cambridge Hacks: Hackathon Prep Guide](https://mirror.xyz/openux.eth/Z9CkF5Np4usTAt393Snq-fLN6BfZQkj-5_o6dy-XGoE) - Thorough documentation to make the most of your hackathon experience.
-
-## General Tooling
+## Tooling
 
 ### Smart Contract Development
 
