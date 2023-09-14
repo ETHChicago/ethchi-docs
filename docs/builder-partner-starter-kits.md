@@ -28,7 +28,9 @@ sidebar_position: 2
 
 ### API3
 
-[API3](https://api3.org/)
+[Billy's Workshop Repo](https://github.com/billyjitsu/API3-PriceFeeds-Hardhat-Foundry)
+
+[API3 General Info](https://api3.org/)
 
 
 ### Buidl Guidl & Scaffold ETH
