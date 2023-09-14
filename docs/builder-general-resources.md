@@ -4,7 +4,9 @@ sidebar_position: 3
 
 # Builder General Resources
 
-## General Resources
+## Resources
+
+[ETH Chicago Hackathon Home](https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023)
 
 ​[ETHGlobal Interactive Guides](https://ethglobal.com/guides)​ - curated list of useful tools, resources, and open-source projects that will help you get started with web3, by ETHGlobal
 
@@ -12,7 +14,7 @@ sidebar_position: 3
 
 [Ethereum.org's Developer Resources](https://ethereum.org/en/developers/)​ - Guides, IDEs, tools, libraries
 
-## General Tooling
+## Tooling
 
 ### Smart Contract Development
 
@@ -33,7 +35,9 @@ The following libraries can be used by a frontend or backend service to interact
 [web3.py](https://web3py.readthedocs.io/en/stable/)
 
 ### Tutorials
-​
-[crypto zombies](https://cryptozombies.io/)
 
-[ethernaut](https://ethernaut.openzeppelin.com/)
+[Speedrun Ethereum](https://speedrunethereum.com/)
+​
+[Crypto Zombies](https://cryptozombies.io/)
+
+[Ethernaut](https://ethernaut.openzeppelin.com/)
