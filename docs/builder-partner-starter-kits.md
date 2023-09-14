@@ -42,7 +42,7 @@ sidebar_position: 2
 
 ### Ceptor Club
 
-[GitHub](https://github.com/citydaoproject](https://github.com/ceptor-club/ETHChicago) - Ceptor Club's Public Repo
+[GitHub](https://github.com/ceptor-club/ETHChicago) - Ceptor Club's Public Repo
 
 [Our Workshop](https://docs.google.com/presentation/d/1mtMkzCalnyWta4Izh20Yp2v47xfSvoBWPo4u8vMTgqk/edit?usp=sharing) - Our Workshop Slide
 
