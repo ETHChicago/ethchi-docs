@@ -42,9 +42,11 @@ sidebar_position: 2
 
 ### Ceptor Club
 
-[GitHub](https://github.com/ceptor-club/ETHChicago) - Ceptor Club's Public Repo
+[Public GitHub](https://github.com/ceptor-club/ETHChicago) - Ceptor Club's Public Repo
 
-[Our Workshop](https://docs.google.com/presentation/d/1mtMkzCalnyWta4Izh20Yp2v47xfSvoBWPo4u8vMTgqk/edit?usp=sharing) - Our Workshop Slide
+[Private GitHub](https://github.com/ceptor-club/ETHChicago) - Ceptor Club's Private Repo ([Sign up for our bounty](https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023/categories) to access)
+
+[Our Workshop](https://docs.google.com/presentation/d/1mtMkzCalnyWta4Izh20Yp2v47xfSvoBWPo4u8vMTgqk/edit?usp=sharing) - Our Workshop Slides
 
 More coming soon...
 
