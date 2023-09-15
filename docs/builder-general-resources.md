@@ -34,10 +34,29 @@ The following libraries can be used by a frontend or backend service to interact
 
 [web3.py](https://web3py.readthedocs.io/en/stable/)
 
-### Tutorials
 
-[Speedrun Ethereum](https://speedrunethereum.com/)
+### Testing & Deployment
+
+[Ganache](https://trufflesuite.com/ganache/)
+
+[Truffle Suite](https://trufflesuite.com/truffle/)
+
+
+## RPCS
+[Ankr](https://www.ankr.com/rpc/)
+
+[Quicknode](https://www.quicknode.com/)
+
+[Infura](https://www.infura.io/)
 ​
-[Crypto Zombies](https://cryptozombies.io/)
+[Alchemy](https://www.alchemy.com/)
 
-[Ethernaut](https://ethernaut.openzeppelin.com/)
+[Syndica](https://www.alchemy.com/)
+
+
+## File Storage
+
+[IPFS](https://www.ipfs.com/)
+
+[Filecoin](https://filecoin.io/)
+​
