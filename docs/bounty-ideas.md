@@ -4,13 +4,13 @@ sidebar_position: 5
 
 # Bounty Ideas
 
-### Case Studies
+## Case Studies
 
-[oakcurrency](https://www.oak.community/)
+[Oakcurrency](https://www.oak.community/)
 
-[lowe's Project Unlock](https://www.lowesinnovationlabs.com/projects/projectunlock)
+[Lowe's Project Unlock](https://www.lowesinnovationlabs.com/projects/projectunlock)
 
-### Arbitrum
+## Arbitrum
 
 ### Governance Improvement:
 **Improve Arbitrum governance**: Changes to voting, or better forums to be less spammy, or improvements to security council.
