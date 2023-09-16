@@ -4,7 +4,9 @@ sidebar_position: 3
 
 # Builder General Resources
 
-## General Resources
+## Resources
+
+[ETH Chicago Hackathon Home](https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023)
 
 ​[ETHGlobal Interactive Guides](https://ethglobal.com/guides)​ - curated list of useful tools, resources, and open-source projects that will help you get started with web3, by ETHGlobal
 
@@ -12,7 +14,7 @@ sidebar_position: 3
 
 [Ethereum.org's Developer Resources](https://ethereum.org/en/developers/)​ - Guides, IDEs, tools, libraries
 
-## General Tooling
+## Tooling
 
 ### Smart Contract Development
 
@@ -31,4 +33,30 @@ The following libraries can be used by a frontend or backend service to interact
 ​​[ethers.js](https://docs.ethers.org/v5/)
 
 [web3.py](https://web3py.readthedocs.io/en/stable/)
+
+
+### Testing & Deployment
+
+[Ganache](https://trufflesuite.com/ganache/)
+
+[Truffle Suite](https://trufflesuite.com/truffle/)
+
+
+## RPCS
+[Ankr](https://www.ankr.com/rpc/)
+
+[Quicknode](https://www.quicknode.com/)
+
+[Infura](https://www.infura.io/)
+​
+[Alchemy](https://www.alchemy.com/)
+
+[Syndica](https://www.alchemy.com/)
+
+
+## File Storage
+
+[IPFS](https://www.ipfs.com/)
+
+[Filecoin](https://filecoin.io/)
 ​

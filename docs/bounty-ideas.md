@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Bounty Ideas
@@ -10,20 +10,17 @@ sidebar_position: 4
 
 [lowe's Project Unlock](https://www.lowesinnovationlabs.com/projects/projectunlock)
 
-## Arbitrum
+### Arbitrum
 
-### Governance Improvement
-  - Changes to voting.
-  - Enhanced forums that reduce spam.
-  - Improvements to the security council.
+### Governance Improvement:
+**Improve Arbitrum governance**: Changes to voting, or better forums to be less spammy, or improvements to security council.
 
 ### L1 Voting via L2 Snapshot
-  - Access the latest confirmed L2 state or block hash from the L1 rollup contract.
-  - Allow smart contracts to prove the L2 snapshot voting power of a delegate on L1.
+**Voting on L1 using L2 snapshot**: On L1, one can access the latest confirmed L2 state / block hash from the rollup contract. With that, a smart contract should be able to prove on L1 the L2 snapshot voting power of a delegate. 
 
 ### Orbit Related
 
-**Message Routing**: Develop a general message router for multi-layer interactions: L1->L3, L3->L3, L1->L2, etc.
+**General message router for 3 layers**: Develop a general message router for multi-layer interactions: L1->L3, L3->L3, L1->L2, etc.
 
 **Short-lived Chains**: Create an Orbit chain with a predetermined lifespan.
 
@@ -39,9 +36,9 @@ sidebar_position: 4
 
 ### Stylus Related
 
-**Migration Tools**: Facilitate the migration of a solidity contract to a different language using Stylus.
+**Migrations**: Migrating a solidity contract to a different language using stylus and utilizing it in unique ways 
 
-**Stylus Extensions**: Use Stylus to integrate features not currently available in solidity. This could involve leveraging libraries from different languages.
+**Stylus Extensions**: Use Stylus to enable something currently not available in solidity, use a library in a different language to enable something in stylus
 
 ## Lil Nouns
 

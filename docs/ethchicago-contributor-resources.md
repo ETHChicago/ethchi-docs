@@ -1,4 +1,6 @@
-
+---
+sidebar_position: 9
+---
 # Resources for ETHChicago Partners and Contributors
 
 ## Media Kit 

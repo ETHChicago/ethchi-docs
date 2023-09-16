@@ -1,12 +1,12 @@
 ---
-sidebar_position: 5
+sidebar_position: 7
 ---
 
 # Local Club Resources
 
 ## University Clubs
 
-### Illini Blockchain Club - The hub for all things blockchain at UIUC
+### Illini Blockchain - The hub for all things blockchain at UIUC
 
 - [linktr.ee](https://linktr.ee/illiniblockchain)
 - [web3 starter pack](https://illiniblockchain.notion.site/web3-Starter-Pack-66bf4bd20bca4d26958cf78af57d379d)
@@ -32,3 +32,9 @@ sidebar_position: 5
 
 - [website](https://boilerblockchain.io/)
 - [x](https://twitter.com/BoilerChain)
+
+### Badger Blockchain - UW Madison's hub for everything blockchain.
+
+- [website](https://www.badgerblockchain.com/)
+- [x](https://twitter.com/BadgerBlocks)
+- [LinkedIn](https://www.linkedin.com/company/badger-blockchain/)
